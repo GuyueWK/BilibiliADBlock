@@ -4,7 +4,7 @@ export default {
 			Splash: true,
 			Feed: {
 				AD: true,
-				Activity: false,
+				Activity: true,
 				Vertical: false,
 				BlockUpLiveList: "",
 				Story: true,
@@ -21,7 +21,7 @@ export default {
 			},
 			Dynamic: {
 				HotTopics: true,
-				MostVisited: false,
+				MostVisited: true,
 				MostVisitedLiveOnly: false,
 				AdCard: true,
 			},
@@ -29,7 +29,7 @@ export default {
 				AD: true,
 			},
 			DM: {
-				Command: false,
+				Command: true,
 				Colorful: false,
 			},
 			Reply: {
